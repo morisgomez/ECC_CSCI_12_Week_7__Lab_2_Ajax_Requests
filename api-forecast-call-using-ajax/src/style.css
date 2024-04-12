@@ -1,0 +1,32 @@
+body
+{
+ padding: 60px;
+}
+
+p
+{
+  background-color: teal;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.75) 0px 3px 8px;
+  text-align: center;
+  margin: auto;
+  padding-top: 60px;
+  width: 350px;
+  height: 100px;
+}
+
+div
+{
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.75) 0px 3px 8px;
+  margin: auto;
+  padding-top: 60px;
+  width: 350px;
+  height: 200px;
+}
+
+h3
+{
+
+  text-align: center;
+}
